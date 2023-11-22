@@ -1,0 +1,18 @@
+// Breakpoints below should match tailwind.config.js (theme.screens)
+$sm: 700px;
+$md: 1000px;
+$lg: 1150px;
+$xl: 1400px;
+
+$container-max-width: 1600px;
+$container-gutter: 1.25rem;
+$container-gutter-sm: 2rem;
+$container-gutter-md: 3rem;
+
+$announcement-bar-height: 39px;
+
+$header-height: 58px;
+$header-height-sm: 90px;
+$header-height-lg: 94px;
+
+$content-over-media-gap: 1.25rem;

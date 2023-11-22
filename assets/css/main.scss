@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@font-face {
+  font-family: "DINNextW10";
+  src: url("@/assets/fonts/DINNextW10-Heavy.woff2") format("woff2"),
+    url("@/assets/fonts/DINNextW10-Heavy.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "DINNextW10";
+  src: url("@/assets/fonts/DINNextW10-Bold.woff2") format("woff2"),
+    url("@/assets/fonts/DINNextW10-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "DINNextW10", sans-serif;
+}

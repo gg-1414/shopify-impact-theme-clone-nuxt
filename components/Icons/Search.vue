@@ -1,0 +1,19 @@
+<template>
+  <svg
+    role="presentation"
+    stroke-width="2"
+    focusable="false"
+    width="22"
+    height="22"
+    class="icon icon-search"
+    viewBox="0 0 22 22"
+  >
+    <circle cx="11" cy="10" r="7" fill="none" stroke="currentColor"></circle>
+    <path
+      d="m16 15 3 3"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    ></path>
+  </svg>
+</template>
